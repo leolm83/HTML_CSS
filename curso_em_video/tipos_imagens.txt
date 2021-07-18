@@ -1,0 +1,4 @@
+Existem 3 tipos mais conhecidos,sendo eles: 
+  GIF que possui uma qualidade baixa,porém aceita transparencia e animacao
+  PNG que aceita transparencia
+  JPEG que faz uma compactacao maior em relacao aos outros porem nao aceita transparencia
